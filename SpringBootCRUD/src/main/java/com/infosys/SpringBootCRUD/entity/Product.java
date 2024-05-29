@@ -22,4 +22,6 @@ public class Product {
     private int qty;
     private double price;
 
+
+
 }
